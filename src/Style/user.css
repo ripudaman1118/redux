@@ -1,0 +1,77 @@
+.table{
+    margin-top: 5vh;
+    margin-left: 4vh;
+}
+.List{
+    border: 0px solid black;
+    text-align: center;
+    color: white;
+    background: black;
+    font-size: 3vh;
+    padding: 1vw;
+    width: 20vw;
+}
+.List-user{
+    padding: 1vw;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+     
+ .Add-User-btn{
+    text-align: end;
+    margin-top: 4vh;
+    height: 1vh;
+ }
+.user{
+    
+    text-align: -webkit-center;
+}
+.inputbox {
+   margin-top: 3vh;
+    /* display: block; */
+    margin: 10px;
+    padding: 7px;
+    border: 1px solid #0c0c0c;
+    width: 250px;
+    border-radius: 2vh;
+  }
+  .Add-new-user-btn{
+    color: white;
+    text-decoration: none;
+  }
+  .buttonbox{
+    margin-top: 3vh;
+    margin-right: 0.5vw;
+    margin-left: 0.5vh;
+    color: white;
+    background-color: rgb(15, 17, 13);
+    padding: 1vh;
+    width: 12vh;
+    border-radius: 2vh;
+  }
+  .ican-btn{
+    border: none;
+    background-color: white;
+    padding: 1vw;
+  }
+  .edit-btn{
+    color: green;
+    font-size: 4vh;
+  }
+  .delete-btn{
+    border: none;
+    background-color: white;
+    padding: 1vw;
+    font-size: 3vh;
+    color: red;
+  }
+  #header{
+    margin-left: 40vw;
+    margin-right: 40vw;
+    margin-top: 19vh;
+    height: 50vh;
+    box-shadow: 2px 2px 5px black;
+    background-color:whitesmoke;
+    border-radius: 2vh;
+  }
